@@ -1,0 +1,8 @@
+{
+  "name": "Zasiłkowy Przewodnik Przyszłego Rodzica",
+  "description": "Responsywna aplikacja webowa (RWD) dla przyszłych rodziców, rodziców małych dzieci, adopcyjnych i rodzin zastępczych — zintegrowany kalkulator zasiłków ZUS, analiza formularzy PDF i asystent PUE/eZUS wspierane przez AI, symulacja mObywatel oraz kreator wniosków z wydrukiem i UPO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
